@@ -47,7 +47,7 @@ before running the script.
 The script will duplicate the default config for your keyboard, replace the
 keymap by Arsenik’s keymap and install As-QMK’s library and default config.
 Once this is done, the script will open the newly created `config.h` file with
-your `$EDITOR` to let you immedately toggle the different config options you
+your `$EDITOR` to let you immediately toggle the different config options you
 can choose from (see "Configuration" section).
 
 Optionnal flags can be passed to `arsenik-qmk.sh` to enable or disable certain
